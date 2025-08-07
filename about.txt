@@ -1,0 +1,3 @@
+name: kusuma 
+course: Bsc-A
+GitHub is a platform that helps you store, manage, and collaborate on code with others. It’s like Google Drive for code but much more powerful and built specifically for developers.
